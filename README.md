@@ -55,9 +55,7 @@ This study guide is designed to help individuals prepare for the AZ-900: Microso
 - [Azure Database Migration Service](https://datamigration.microsoft.com/)
 
 ### Section 8: Authentication and Authorization
-- [Identity and Access](https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/3
-
--identity-and-access)
+- [Identity and Access](https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/3-identity-and-access)
 - [Azure Passwordless Authentication](https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-passwordless)
 - [Azure Active Directory Domain Services](https://learn.microsoft.com/en-us/azure/active-directory-domain-services/overview)
 
